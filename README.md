@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Zhiyi</h1>
 
 <!--
 **zhiyi-zoe/zhiyi-zoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="#">
+  <img src="/github-metrics.svg" alt="Metrics" width="400"/>
+  </a>
+</p>
